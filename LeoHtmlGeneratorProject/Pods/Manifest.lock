@@ -1,0 +1,16 @@
+PODS:
+  - Html (0.3.1)
+
+DEPENDENCIES:
+  - Html (~> 0.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Html
+
+SPEC CHECKSUMS:
+  Html: 36e4910baff75809d3640ccbd306d6d1571397e9
+
+PODFILE CHECKSUM: aa8d60a937879e42821e24e6dd1a28c46f1273ee
+
+COCOAPODS: 1.6.1
